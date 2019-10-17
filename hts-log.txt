@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Oct 2019 18:43:01 at http://rstheme.com/products/html/seolab/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://rstheme.com/products/html/seolab/ -O1 "C:\xampp\htdocs\teleatento2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:43:02	Warning: 	Note: due to rstheme.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+18:46:18	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/apple-touch-icon.png (from rstheme.com/products/html/seolab/)
+18:50:05	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/testimonials.html (from rstheme.com/products/html/seolab/)
+18:50:16	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/single-team-member.html (from rstheme.com/products/html/seolab/)
+18:50:16	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/fonts/glyphicons-halflings-regular.eot (from rstheme.com/products/html/seolab/css/bootstrap.min.css)
+18:50:16	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/fonts/glyphicons-halflings-regular.eot? (from rstheme.com/products/html/seolab/css/bootstrap.min.css)
+18:50:16	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/fonts/glyphicons-halflings-regular.woff2 (from rstheme.com/products/html/seolab/css/bootstrap.min.css)
+18:50:16	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/fonts/glyphicons-halflings-regular.woff (from rstheme.com/products/html/seolab/css/bootstrap.min.css)
+18:50:16	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/fonts/glyphicons-halflings-regular.ttf (from rstheme.com/products/html/seolab/css/bootstrap.min.css)
+18:50:16	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/fonts/glyphicons-halflings-regular.svg (from rstheme.com/products/html/seolab/css/bootstrap.min.css)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/css/owl.video.play.png (from rstheme.com/products/html/seolab/css/owl.carousel.css)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/css/AjaxLoader.gif (from rstheme.com/products/html/seolab/css/owl.theme.css)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/images/banner/1.jpg (from rstheme.com/products/html/seolab/style.css)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/team-details.html (from rstheme.com/products/html/seolab/index-2.html)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/service-details.html (from rstheme.com/products/html/seolab/services-4.html)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/blog-with-left-sidebar (from rstheme.com/products/html/seolab/case-study-2.html)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/case-details.html (from rstheme.com/products/html/seolab/article-category-blog.html)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/blog-no-sidebar.html (from rstheme.com/products/html/seolab/article-category-blog.html)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/blog-details.html (from rstheme.com/products/html/seolab/article-category-blog.html)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/team.html (from rstheme.com/products/html/seolab/article-category-blog.html)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/contact.html (from rstheme.com/products/html/seolab/article-category-blog.html)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/js/quote.form.js (from rstheme.com/products/html/seolab/blog-two-column.html)
+18:50:17	Error: 	"Not Found" (404) at link rstheme.com/products/html/seolab/page.html (from rstheme.com/products/html/seolab/team1.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 16 seconds : 228 links scanned, 205 files written (11664520 bytes overall) [9820676 bytes received at 22524 bytes/sec], 4046908 bytes transferred using HTTP compression in 93 files, ratio 24%
+(22 errors, 1 warnings, 0 messages)
